@@ -11,7 +11,7 @@
 	$dbhost = 'localhost';
 
 	// Database Name
-	$dbname = 'streetlife-africa2';
+	$dbname = 'sms';
 
 	// Database Username
 	$dbuser = 'root';
